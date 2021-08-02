@@ -1,0 +1,7 @@
+the-big-picture
+the-short-story
+understand-the-objective
+atomic-mapping
+document-and-verify
+documentation
+verify

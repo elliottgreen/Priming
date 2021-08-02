@@ -1,11 +1,11 @@
 --- 
-title: "Cybersecurity Analyst"
+title: "Three Steps to Achieving an Enterprise Certification"
 author: "Omar Elliottgreen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Three Steps to Achieving an Enterprise Certification
+# The Big Picture
 Certification/Authorization is one of the primary ways that an entity can
 demonstrate mastery of a subject. It allows two parties to objectively ensure
 that an agreed upon minimum standard has been met. Certification also allows a standardized method for testing of said mastery. 
@@ -13,11 +13,26 @@ A certification can also foster a continued relationship between entities.
 Given that most certifications are an inherently public endeavour, the
 success of the relationship can raise the perceived value of both parties.
 
-## Step Outline
+## The Short Story
 
-__The three steps to ensure that an entity is ready to attempt a
+__The three points of focus to ensure that an entity is ready to attempt a
 certification:__
+
+Focusing on these three areas in a closed loop similar to that of the SDLC can provide
+an entity with the situational awareness to successfully attempt any
+certification or authorization with their Information System (IS). 
 
 1. Identify and Understand the Objective
 2. Inventory and Map
 3. Document and Verify
+
+While these three focal points are broad in nature, they are sufficient to begin the
+process and surface deeper questions. Some of the questions that may result in
+bringing focus to bare here are:
+
+* Do we have current documentation?
+* Who authors and revises our documentation?
+* What is our periodicity for revision?
+* To whom is our documentation disseminated?
+* What technologies or providers are we dependant on?
+* How do we verify the efficacy of our security policies?
