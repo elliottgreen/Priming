@@ -1,4 +1,5 @@
-steps-to-achieving-an-enterprise-certification
+three-steps-to-achieving-an-enterprise-certification
+step-outline
 understand-the-objective
 atomic-mapping
 document-and-verify
