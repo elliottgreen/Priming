@@ -1,0 +1,28 @@
+# Understand the Objective
+
+The first step in an effort to achieve any certification is to identify and
+understand the standards set forth by the certifying body. That is to say, the
+certification itself is a result of achieving the standards. That achievement is
+verified by a neutral third party with testing and review. Thus, in order to be
+successful, it is paramount to understand what is required and how it will be
+verified. 
+
+To illustrate the implementation of this approach, we can look at the Federal Risk and Authorization Management Program (FedRAMP).
+
+[FedRAMP](https://www.fedramp.gov/) is the Federal approach to SaaS evaluation and
+authorization. In this case, identifying and understanding the standards is
+easily achieved by examination of the document used for final evaluation. There
+is little room for interpretation or deviation, thus providing a clear standard
+which must be reached, attested to, and evaluated in order to achieve
+certification. 
+
+The standards that are attested to, then evaluated for FedRAMP certification, are those set forth by the
+National Institute of Standards and Technology [NIST](https://www.nist.gov/).
+By using the publicly available and clearly defined standards of NIST, the path
+to achieving FedRAMP is clear. 
+
+While there are myriad NIST standards that must be adhered to and evaluated,
+the central defining standard for a SaaS IS is the Special Publication
+[800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+Working from that definitive document, anyone attempting to achieve FedRAMP
+certification can identify exactly what is required regarding their IS. 

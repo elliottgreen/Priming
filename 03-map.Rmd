@@ -1,0 +1,24 @@
+# Atomic Mapping 
+
+Once the requisite standards set by the certifying body are understood, the
+next step is to ensure maximum situational awareness of the entity seeking
+certification. 
+
+In the case of FedRAMP, the provider of a SaaS Information System (IS) must be
+fully aware and able to describe __every__ attribute of that IS. Some such
+attributes which must be attested to in documentation are:
+
+* Security Technologies in use
+  + Transport Layer Security
+  + Secure Sockets Layer
+* Encryption Methods
+  + Full Disk Encryption
+  + Tunneling Protocols
+  + Virtual Private Networks
+* System Interconnections
+  + Platform as a Service (PaaS)
+  + Security information and event management (SIEM)
+
+
+While this is not an exhaustive list, the depth and breadth of the knowledge
+required to attest to those few lines is extensive. 
