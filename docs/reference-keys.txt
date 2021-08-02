@@ -1,3 +1,6 @@
 steps-to-achieving-an-enterprise-certification
 understand-the-objective
 atomic-mapping
+document-and-verify
+documentation
+verify

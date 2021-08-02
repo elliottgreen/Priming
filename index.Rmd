@@ -8,7 +8,7 @@ site: bookdown::bookdown_site
 # 3 Steps to Achieving an Enterprise Certification
 Certification/Authorization is one of the primary ways that an entity can
 demonstrate mastery of a subject. It allows two parties to objectively ensure
-that an agreed upon minimum standard has been met. Certification also allows a standardized method of testing for said mastery. 
+that an agreed upon minimum standard has been met. Certification also allows a standardized method for testing of said mastery. 
 A certification can also foster a continued relationship between entities. 
 Given that most certifications are an inherently public endeavour, the
 success of the relationship can raise the perceived value of both parties.
